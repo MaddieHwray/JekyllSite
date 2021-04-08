@@ -1,15 +1,42 @@
 ---
+title: About Me
+subtitle: This is a short page about me and my work
+img_path: images/about.jpg
+seo:
+  title: About Me
+  description: A page about me and my work
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: About Me
+      keyName: property
+    - name: 'og:description'
+      value: A page about me and my work
+      keyName: property
+    - name: 'og:image'
+      value: images/about.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: About Me
+    - name: 'twitter:description'
+      value: A page about me and my work
+    - name: 'twitter:image'
+      value: images/about.jpg
+      relativeUrl: true
 layout: page
-title: About
-permalink: /about/
 ---
 
-Some information about you!
+**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
-### More Information
+His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
-A place to include any other types of information that you'd like to include about yourself.
+>The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-### Contact me
+As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
-[email@domain.com](mailto:email@domain.com)
+*Thank You for reading!*
