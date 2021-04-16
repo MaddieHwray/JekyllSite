@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: This is a short intro about me and my work
 img_path: images/about.jpg
 seo:
   title: About Me
@@ -31,12 +31,16 @@ seo:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Madeline Wray** is a invative curator [Canadian](https://en.wikipedia.org/wiki/Canadians), dancer. She began her dancing career at the age of 3. In 2014 she was admitted into the pre-professional program at the Quinte Ballet School of Canada where she trained extensively in the ballet technique for two years. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Afterward, she auditioned and performed in the Nutcracker by Ballet Jorgen Canada and during the summer she danced within Alvin Ailey, studying the Horton technique. From there she was accepted into New York Cities Joffrey Ballet school’s jazz and contemporary program where she performed works by Angelica Stiskin, Jacklin Walsh, Akira Uchida, Bradley Shelver and Turk
+Lewis.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+In 2019 she was accepted into California Institute of the Arts as an undergraduate. 
+
+>There are limitless possibilities, if only you are willing. <cite> Madeine Wray</cite>
+
+As a hobby, Madeline Wray works on curating dacnign films within and around her enviornment, sewing and composing music.
 
 *Thank You for reading!*

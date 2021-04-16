@@ -12,15 +12,15 @@ form_fields:
   - input_type: email
     name: email
     label: Email
-    default_value: Your email address
+    default_value:  Email address
     is_required: true
   - input_type: select
     name: subject
     label: Subject
     default_value: Please select
     options:
-      - Error on the site
-      - Sponsorship
+      - Piece
+      - History
       - Other
   - input_type: textarea
     name: message
@@ -29,8 +29,7 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
+      I understand that this form is storing submitted info so I can be contacted.
 submit_label: Send Message
 seo:
   title: Get in Touch
