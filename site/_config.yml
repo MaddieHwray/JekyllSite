@@ -1,13 +1,14 @@
-title: Stackbit Fjord Theme
-baseurl: /
+title: Madeline
+url: https://jekyllsite-maddiehwray.icom101.repl.co
+baseurl: ""
 permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-palette: yellow
-header:
-  title: Fjord
-  tagline: Minimal and clean blog theme
+palette: Green 
+header: 
+  title: Madeline Wray
+  tagline: Constantly in motion
   logo_img: images/logo.svg
   logo_img_alt: Fjord Logo
   background_img: images/header-bg.jpg
@@ -16,49 +17,35 @@ header:
     - label: Home
       url: /
       style: link
+    - label: Video
+      url: /video
     - label: About
       url: /about
       style: link
-    - label: Style Guide
-      url: /style-guide
-      style: link
-    - label: Contact
-      url: /contact
-      style: link
   has_social: true
   social_links:
+    - label: Facebook
+      url: 'https://www.facebook.com/profile.php?id=100010408396060'
+      style: icon
+      icon_class: facebook
     - label: Twitter
-      url: 'https://twitter.com/'
+      url: 'https://twitter.com/home'
       style: icon
       icon_class: twitter
       new_window: true
     - label: Instagram
-      url: 'https://www.instagram.com/'
+      url: 'https://www.instagram.com/madelinewrayy/'
       style: icon
       icon_class: instagram
       new_window: true
-    - label: GitHub
-      url: 'https://github.com/'
-      style: icon
-      icon_class: github
-      new_window: true
-    - label: LinkedIn
-      url: 'https://www.linkedin.com/'
-      style: icon
-      icon_class: linkedin
-      new_window: true
-    - label: DEV
-      url: 'https://dev.to/'
-      style: icon
-      icon_class: dev
-      new_window: true
+    # - label: GitHub
+    #   url: 'https://github.com/'
+    #   style: icon
+    #   icon_class: github
+    #   new_window: true
 footer:
   content: >-
-    &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
-    href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-    rel="noopener">Stackbit</a>. Create yours <a
-    href="https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer"
-    target="_blank" rel="noopener">now</a>
+    &copy; 2021 Madeline Wray. All rights reserved. 
 sass:
   indentWidth: 4
   style: nested
@@ -78,3 +65,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+  #- style-guide.md

@@ -10,9 +10,9 @@ excerpt: >-
   buildings see the use of tatami mats and sliding doors that break down the
   distinction between rooms and indoor and outdoor space.
 date: '2020-01-11'
-thumb_img_path: images/10.jpg
+thumb_img_path: images/Headshot.jpeg
 thumb_img_alt: A red fox sitting on a meadow
-content_img_path: images/10.jpg
+content_img_path: images/Headshot.jpeg
 seo:
   title: Fox Village In Japan
   description: >-
@@ -31,7 +31,7 @@ seo:
         sanctuaries.
       keyName: property
     - name: 'og:image'
-      value: images/10.jpg
+      value: images/Headshot.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -43,7 +43,7 @@ seo:
         Apparently, Japan is covered in magical and irresistibly cute animal
         sanctuaries.
     - name: 'twitter:image'
-      value: images/10.jpg
+      value: images/Headshot.jpeg
       relativeUrl: true
 layout: post
 ---

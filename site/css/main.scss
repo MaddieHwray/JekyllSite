@@ -3,7 +3,7 @@
 
 // Font.
 $font: (
-  primary: ("Poi", serif)
+  primary: ("Open Sans", sans-serif)
 );
 
 // Palette.
@@ -30,4 +30,3 @@ $palette: (
 @import "imports/animations";
 @import "imports/palettes";
 @import "imports/banner";
-
