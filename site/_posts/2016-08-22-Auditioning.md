@@ -5,9 +5,9 @@ excerpt: >-
   parenting into his or her business activities. They are sometimes referred to
   as a WAHM (work at home mom) or a WAHD (work at home dad).
 date: '2016-08-22'
-thumb_img_path: images/9.jpg
+thumb_img_path:images/B.jpeg
 thumb_img_alt: Home office setup
-content_img_path: images/9.jpg
+content_img_path:images/B.jpeg
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: >-
@@ -26,7 +26,7 @@ seo:
         integrates parenting into his or her business activities
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value:images/B.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -38,7 +38,7 @@ seo:
         Work at home parent is an entrepreneur who works from home and
         integrates parenting into his or her business activities
     - name: 'twitter:image'
-      value: images/9.jpg
+      value:images/B.jpeg
       relativeUrl: true
 layout: post
 ---

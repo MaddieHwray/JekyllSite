@@ -5,9 +5,9 @@ excerpt: >-
   walking through dense forest, undergrowth, or bushes, where forward progress
   requires pushing vegetation aside.
 date: '2019-04-09'
-thumb_img_path: images/1.jpg
+thumb_img_path: images/Contemp.jpeg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
-content_img_path: images/1.jpg
+content_img_path: images/Contemp.jpeg
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-
@@ -26,7 +26,7 @@ seo:
         bushes.
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: images/Contemp.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -38,7 +38,7 @@ seo:
         Hiking refers to difficult walking through dense forest, undergrowth, or
         bushes.
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: images/Contemp.jpeg
       relativeUrl: true
 layout: post
 ---

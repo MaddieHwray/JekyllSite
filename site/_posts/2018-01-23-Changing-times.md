@@ -8,9 +8,9 @@ excerpt: >-
   square miles (784 km2), New York is also the most densely populated major city
   in the United States.
 date: '2018-01-23'
-thumb_img_path: images/5.jpg
+thumb_img_path: images/changes.jpeg
 thumb_img_alt: Brooklyn Bridge at daytime
-content_img_path: images/5.jpg
+content_img_path: images/changes.jpeg
 seo:
   title: Few Things I Wish I Knew Before I Moved to New York
   description: A cautionary tale about life in New York
@@ -25,7 +25,7 @@ seo:
       value: A cautionary tale about life in New York
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: images/changes.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: A cautionary tale about life in New York
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: images/changes.jpeg
       relativeUrl: true
 layout: post
 ---

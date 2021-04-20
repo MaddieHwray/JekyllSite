@@ -9,9 +9,9 @@ palette: Green
 header: 
   title: Madeline Wray
   tagline: Constantly in motion
-  logo_img: images/logo.svg
-  logo_img_alt: Fjord Logo
-  background_img: images/header-bg.jpg
+  logo_img: images/Calling.png
+  logo_img_alt: calling
+  background_img: images/header.jpeg
   has_nav: true
   nav_links:
     - label: Home
