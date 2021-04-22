@@ -113,7 +113,7 @@ pre {
 }
 
 blockquote {
-  border-left: 5px solid _palette(accent);
+  border-left: 7px solid _palette(accent);
   color: _palette(secondary);
   font-size: 1.33333rem;
   font-style: italic;
@@ -345,7 +345,7 @@ input[type="reset"],
   border: 0;
   box-shadow: none;
   color: inherit;
-  height: 40px;
+  height: 20px;
   padding: 0;
   position: relative;
   width: 40px;
@@ -417,7 +417,7 @@ img {
 .post-content,
 .block {
   img {
-    border-radius: 3px;
+    border-radius: 5px;
   }
 }
 
@@ -426,7 +426,7 @@ img {
 .site-logo + .site-title {
   border: 0;
   clip: rect(1px, 1px, 1px, 1px);
-  height: 1px;
+  height: 4px;
   overflow: hidden;
   padding: 0;
   position: absolute !important;
@@ -446,7 +446,7 @@ img {
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 900px) {
   html {
     font-size: 100%;
   }
