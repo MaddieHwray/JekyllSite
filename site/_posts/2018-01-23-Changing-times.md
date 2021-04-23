@@ -1,6 +1,6 @@
 ---
 title: Changing times
-subtitle: A cautionary tale about life in New York
+subtitle: Adapting to new possibilities
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
   York (NY), is the most populous city in the United States. With an estimated
@@ -8,12 +8,11 @@ excerpt: >-
   square miles (784 km2), New York is also the most densely populated major city
   in the United States.
 date: '2018-01-23'
-thumb_img_path: images/changes.jpeg
+thumb_img_path: images/4.jpeg
 thumb_img_alt: Brooklyn Bridge at daytime
-content_img_path: images/changes.jpeg
+content_img_path: images/4.jpeg
 seo:
-  title: Few Things I Wish I Knew Before I Moved to New York
-  description: A cautionary tale about life in New York
+  title: Adapting to new possibilities
   extra:
     - name: 'og:type'
       value: article
@@ -25,7 +24,7 @@ seo:
       value: A cautionary tale about life in New York
       keyName: property
     - name: 'og:image'
-      value: images/changes.jpeg
+      value: images/4.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +34,7 @@ seo:
     - name: 'twitter:description'
       value: A cautionary tale about life in New York
     - name: 'twitter:image'
-      value: images/changes.jpeg
+      value: images/4.jpeg
       relativeUrl: true
 layout: post
 ---

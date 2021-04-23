@@ -3,17 +3,17 @@ title: Home
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: Stackbit Fjord Theme
-  description: The preview of the Fjord theme
+  title: {{page.title}}
+  description: {{site.header.tagline}}
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fjord Theme
+      value: {{site.title}}
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: {{site.header.tagline}}
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
@@ -22,9 +22,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fjord Theme
+      value: {{site.title}}
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: {{site.header.tagline}}
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true

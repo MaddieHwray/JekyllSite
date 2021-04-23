@@ -166,12 +166,12 @@ dd {
 ul,
 ol {
   margin: 0 0 1.66667em;
-  padding: 0 0 0 1.33333em;
+  padding: 0 0 0 2.0em;
 }
 
 li > ul,
 li > ol {
-  margin-bottom: 0;
+  margin-bottom: 2em;
 }
 
 hr {
@@ -346,7 +346,7 @@ input[type="reset"],
   box-shadow: none;
   color: inherit;
   height: 20px;
-  padding: 0;
+  padding: 5px;
   position: relative;
   width: 40px;
 }
@@ -368,7 +368,7 @@ input[type="reset"],
   -ms-flex-pack: center;
   justify-content: center;
   line-height: 2.22222em;
-  padding: 0;
+  padding: 2px;
   position: relative;
   width: 2.22222em;
 }
@@ -409,8 +409,8 @@ video {
 
 /* Images */
 img {
-  height: auto;
-  max-width: 100%;
+  height: 70%;
+  max-width: 50%;
 }
 
 .post-thumbnail,
@@ -425,8 +425,8 @@ img {
 .screen-reader-text,
 .site-logo + .site-title {
   border: 0;
-  clip: rect(1px, 1px, 1px, 1px);
-  height: 4px;
+  clip: rect(0px, 1px, 1px, 1px);
+  height: 0px;
   overflow: hidden;
   padding: 0;
   position: absolute !important;
@@ -442,7 +442,7 @@ img {
   &:before,
   &:after {
     content: "";
-    display: table;
+    display: grid;
   }
 }
 

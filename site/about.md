@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short intro about me and my work
-img_path: images/about.jpg
+img_path: images/H.png
 seo:
   title: About Me
   description: A page about me and my work
@@ -16,7 +16,7 @@ seo:
       value: A page about me and my work
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/H.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:description'
       value: A page about me and my work
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/H.png
       relativeUrl: true
 layout: page
 ---

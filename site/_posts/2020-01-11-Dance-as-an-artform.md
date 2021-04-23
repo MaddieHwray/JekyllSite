@@ -7,11 +7,11 @@ excerpt: >-
   Looking at dance, it may seem complex and unattainable when only focussing on the body, but dance is so much more than a body. The body is a gateway that opens, intertwines and resonates between the internal and external being and surroundings.
 
 date: '2020-01-11'
-thumb_img_path: images/art.jpeg
+thumb_img_path: images/1.jpeg
 thumb_img_alt: connecting deeper to dance's roots 
-content_img_path: images/art.jpeg
+content_img_path: images/1.jpeg
 seo:
-  title: Fox Village In Japan
+  title: Dance as an artform 
   description: >-
     Dance, it may seem unattainale and complex when only focusing on the body.
     
@@ -27,7 +27,7 @@ seo:
         Dance, it may seem complex and unattainable when only focussing on the body.
       keyName: property
     - name: 'og:image'
-      value: images/art.jpeg
+      value: images/1.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -38,7 +38,7 @@ seo:
       value: >-
         Dance, it may seem complex and unattainable when only focussing on the body.
     - name: 'twitter:image'
-      value: images/art.jpeg
+      value: images/1.jpeg
       relativeUrl: true
 layout: post
 ---

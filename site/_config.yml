@@ -5,7 +5,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-palette: Green 
+palette: Blue 
 header: 
   title: Madeline Wray
   tagline: Constantly in motion
@@ -24,15 +24,15 @@ header:
       style: link
   has_social: true
   social_links:
+    - label: Email
+      url: 'mailto:madelinewray@alum.calarts.edu'
+      style: icon
+      icon_class: email
+      new_window: true
     - label: Facebook
       url: 'https://www.facebook.com/profile.php?id=100010408396060'
       style: icon
-      icon_class: facebook
-    - label: Twitter
-      url: 'https://twitter.com/home'
-      style: icon
-      icon_class: twitter
-      new_window: true
+      icon_class: facebook      
     - label: Instagram
       url: 'https://www.instagram.com/madelinewrayy/'
       style: icon
