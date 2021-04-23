@@ -5,6 +5,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
+  videos:
 palette: Blue 
 header: 
   title: Madeline Wray
@@ -17,8 +18,8 @@ header:
     - label: Home
       url: /
       style: link
-    - label: Video
-      url: /video
+    - label: Videos
+      url: /videos
     - label: About
       url: /about
       style: link
