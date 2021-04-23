@@ -10,7 +10,7 @@ palette: Blue
 header: 
   title: Madeline Wray
   tagline: Constantly in motion
-  logo_img: images/Calling.png
+  logo_img: images/C.png
   logo_img_alt: calling
   background_img: images/header.jpeg
   has_nav: true
