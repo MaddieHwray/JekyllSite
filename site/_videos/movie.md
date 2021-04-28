@@ -1,8 +1,7 @@
 ---
 title: "Video 2"
 src: /media/movie.mp4
-
-
+date: '2021-04-12'
 ---
 
 

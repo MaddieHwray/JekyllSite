@@ -2,5 +2,16 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 4rem;
-  
+  margin: 30px 30px 40px;
+  margin-top: 15%
+}
+
+.post-title a {
+  color: #000866;
+}
+.post-content {
+  max-width: 60ch;
+}
+.post-feed.post-meta {
+  text-shadow: 1px 1px rgba(0, 150, 255, 0.2);
 }

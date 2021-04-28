@@ -13,10 +13,10 @@ $palette: (
   meta:          lighten(#666666, 25%),
   border:        lighten(#666666, 38%),
   bg:            lighten(#666666, 55%),
-  accent:        #01EB24,
-  accent-blue:   #1fa2ff,
-  accent-green:  #24b466,
-  accent-red:    #EB0A00
+  accent:        red,
+  accent-blue:   #5096F2,
+  accent-green:  #5096F2,
+  accent-red:    #5096F2
 );
 
 @import "imports/functions";
