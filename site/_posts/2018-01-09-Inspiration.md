@@ -41,10 +41,14 @@ seo:
 layout: post
 ---
 
-**Iceland** Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
+**Nature** One heavy influencer of my dancing and choreography would be from nature around me. I love to take ethe colours, smells and angles that nature produces into my body. I allow this to seep into my body. To imagine what it would be like to be the flow. To see what a baby blue colour does to my body. And what nature does to my senses. How does hearing how the trees sway and the birds chirping feel as I crave the space with this in mind. 
 
-> Iceland, I'm in love with that country, the people are incredible. - Kit Harington
+> Look deeper into, nature and than you will understand everything better.  -  Albert Einstein
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus sit. Massa placerat duis ultricies lacus sed. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Pulvinar neque laoreet suspendisse interdum consectetur libero. Lacus viverra vitae congue eu consequat ac felis donec et. Imperdiet dui accumsan sit amet nulla facilisi. Faucibus turpis in eu mi bibendum neque. Magna etiam tempor orci eu. Cursus turpis massa tincidunt dui ut ornare. A condimentum vitae sapien pellentesque habitant. Ut porttitor leo a diam sollicitudin tempor id eu.
 
-Pulvinar pellentesque habitant morbi tristique senectus et netus et. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Erat nam at lectus urna duis. Lacinia quis vel eros donec ac odio. Eget nulla facilisi etiam dignissim diam quis. Arcu dictum varius duis at consectetur lorem donec massa. Egestas tellus rutrum tellus pellentesque eu. Egestas erat imperdiet sed euismod nisi porta. Nec feugiat in fermentum posuere urna. Viverra ipsum nunc aliquet bibendum enim. Fermentum odio eu feugiat pretium. Vestibulum rhoncus est pellentesque elit. Elit ut aliquam purus sit amet luctus venenatis. Donec ac odio tempor orci dapibus ultrices in. Vitae justo eget magna fermentum. At tellus at urna condimentum mattis pellentesque id nibh tortor. Arcu dictum varius duis at consectetur lorem donec massa. Malesuada proin libero nunc consequat interdum varius sit amet. Dui accumsan sit amet nulla facilisi. Ut venenatis tellus in metus vulputate.
+## Media
+I am constantly reading books and watching movies. There are so many concepts and emotions that arise in their stories line. Movies are the embodiment of what society is feelings and experiencing. Embodying is a big part of my work. What does it feel like to truly be what I am exploring, to truly take an already formed idea and re-morphing it into another new and creative idea. 
+
+## Movements
+
+Lastly, I have been drawing inspiration from social movements. Humans’ rights have always been important to me and now especially with how black lives are being treated. This injustice and blatant ignorance of human rights is appalling and I desire to be a voice that takes out and about this treatment. 
