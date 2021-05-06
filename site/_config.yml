@@ -67,3 +67,5 @@ exclude:
   - stackbit-build.sh
   - stackbit-pull.js
   #- style-guide.md
+
+Destination: ../docs

@@ -1,5 +1,5 @@
 ---
-title: "Video  "
+title: "Gravity"
 src: /media/movie.mp4
 date: '2021-04-12'
 ---
