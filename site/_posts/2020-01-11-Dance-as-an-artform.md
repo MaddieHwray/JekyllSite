@@ -1,8 +1,7 @@
 ---
 title: Dance as an artform
 subtitle: >-
-  Dance is never alone, it's always combined with other elements like
-  Music, space, atmospher, technology. 
+  Dance is never alone, it's always combined with other elements like music, space, atmospher, technology. 
 excerpt: >-
   Looking at dance, it may seem complex and unattainable when only focussing on the body, but dance is so much more than a body. The body is a gateway that opens, intertwines and resonates between the internal and external being and surroundings.
 
@@ -58,5 +57,3 @@ Dance moves the body as much as it moves the mind and the heart. If what you are
 > Artforms are expressive.
 
 An artform is something that is an activity that is a medium for imagination and creatives self-expression with which anyone can dive into.
-
- { <a title="Ise Grand Shrine" href="http://en.wikipedia.org/wiki/Ise_Grand_Shrine" target="_blank">Source</a> }

@@ -2,7 +2,7 @@
 title: Changing times
 subtitle: Adapting to new possibilities
 excerpt: >-
-  Nothing stays the same forever. Without change there is n possibilties for newness and growth. 
+  Nothing stays the same forever. Without change there are no possibilties for newness and growth. 
   
 date: '2018-01-23'
 thumb_img_path: images/4.jpeg
@@ -36,8 +36,11 @@ seo:
 layout: post
 ---
 
-**Adaptability**, 
+**Adaptability** 
+
 Because of the global pandemic, it has pushed many areas to think outside of the box to survive and dance is no exception. The pandemic has made it so we have new means of presenting the arts.  There are times when the old becomes obsolete and this could happen to the art world if it doesn’t change with the times. 
+
+## Technology 
 
 One new way that the art world has found a way to continue to create and live would be through technology. Since performances live comes at a great risk technology has been a great way to present through distance. Dance has become a society of dancing for the camera. Concerts are live streamed; performances and conventions are made accessibility. Dancing with and for the camera is the new method of presentation and viewership. 
 

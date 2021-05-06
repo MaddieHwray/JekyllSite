@@ -41,16 +41,14 @@ seo:
 layout: post
 ---
 
-![Training](/images/2.jpg)
-
-Traning the body is extremely important. People train in order to keep the bodies physical abilities as well as to enhance ones knowledge of their feild of study. Dance has many different avenues that a person can take to enhance the mind and body. 
+Training the body is extremely important. People train in order to keep the bodies physical abilities as well as to enhance ones knowledge of their feild of study. Dance has many different avenues that a person can take to enhance the mind and body. 
 
 
 ## Codified techniques
 
 ballet is the foundation. **Ballet** is a form that is practiced univeraslly, no matter the country a person travels to. It is the foundations for all other techniques that are practiced today. Ballet is a form that really makes you dive into your body. It is a form that has strucker and predictability which thus allows for the body and mind to aline. When I say that thsi form s universal, this means that it is codifed. Codied means that the structure of the class will follow a pattern. For ballet this means that the class will alwasy start at the bar  with plies and tondus and then will move to the center for jumps. 
 
-Horton [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) is an other codified technique that anyone can step into and know what to expect. Horton is a form that is made to emphasizes the anatoical body and approach dance that includes multiple different aspects lie flexibility, strength, coordination and body and spatial awareness to enable unrestricted, dramatic freedom of expression.
+[Horton](https://www.dancespirit.com/horton-technique-2326036575.html) is another codified technique that anyone can step into and know what to expect. Horton is a form that is made to emphasizes the anatoical body and approach dance that includes multiple different aspects lie flexibility, strength, coordination and body and spatial awareness to enable unrestricted, dramatic freedom of expression.
 
 
 Gram is a techniques that is a form of dance that does an amazinf job of building the body for the high demand that is placed on it by the end of the class. This is a form like ballet that has set expersizes and places of structure. The beinning of the class starts with the body on the floor. Through exersies that are taught the body is warmed up part by part. Working from the back, to the arms, legs and feet. Eventually as the exersizes progress the body is ready for it to exiqute jumps, twists and turns. 
