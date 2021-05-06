@@ -68,4 +68,4 @@ exclude:
   - stackbit-pull.js
   #- style-guide.md
 
-Destination: ../docs
+destination: ../docs
